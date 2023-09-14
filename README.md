@@ -1,5 +1,4 @@
-### Desafios da Formacao SQL Database Specialist DIO
-Bootcamp Potência Tech powered by iFood | Ciência de Dados com Python!
+### Formacao SQL Database Specialist DIO
 #### Aprendizados:
 1. Introdução a Banco de Dados
 
